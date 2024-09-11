@@ -1,5 +1,5 @@
 ```markdown
-# Discord Voice Channel Switcher Bot
+# Discord 7/24 Voice Bot
 
 Bu proje, Discord sunucularında ses kanalları arasında geçiş yapmanızı sağlayan bir bot içerir. Bot, belirli bir sunucuda ses kanalına bağlanır ve bağlı olduğu süreyi güncelleyerek kullanıcıya bilgi verir.
 
