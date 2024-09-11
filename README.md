@@ -14,7 +14,6 @@ Bu proje, Discord sunucularında ses kanallarında afk kalmanıza yarar.
 ### Gereksinimler
 
 - Python 3.8 veya daha yeni bir sürüm
-- Bir Discord bot token'ı (Bot oluşturmak ve token almak için [Discord Developer Portal](https://discord.com/developers/applications) kullanabilirsiniz)
 
 ### Adımlar
 
