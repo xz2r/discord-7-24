@@ -1,4 +1,4 @@
-```markdown
+
 # Discord 7/24 Voice Bot
 
 Bu proje, Discord sunucularında ses kanallarında afk kalmanıza yarar.
@@ -47,12 +47,3 @@ Bu proje, Discord sunucularında ses kanallarında afk kalmanıza yarar.
 ## Kullanım
 
 Bot çalıştırıldığında, komut satırında sunucu ve ses kanalı seçme seçenekleri sunulacaktır. Gerekli seçimleri yaptıktan sonra bot, seçilen ses kanalına bağlanacak ve bağlı kalma süresini belirli aralıklarla güncelleyerek kullanıcıya bilgi verecektir.
-
-## Katkıda Bulunma
-
-Katkıda bulunmak için, lütfen bir `pull request` gönderin. Her türlü geri bildiriminiz ve öneriniz için teşekkür ederiz.
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
-```
